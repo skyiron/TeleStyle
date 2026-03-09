@@ -73,7 +73,6 @@ python telestylevideo_inference.py --video_path assets/example/1.mp4 --image_pat
 
 ### ComfyUI
 Thanks to the community for providing the ComfyUI implementation:
-- [SleepyOldOrbs/TeleStyle-ComfyUI-Node](https://github.com/SleepyOldOrbs/TeleStyle-ComfyUI-Node?tab=readme-ov-file)
 - [neurodanzelus-cmd/ComfyUI-TeleStyle](https://github.com/neurodanzelus-cmd/ComfyUI-TeleStyle)
 
 ## Citation
